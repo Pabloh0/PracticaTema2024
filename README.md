@@ -1,10 +1,12 @@
 ## 	Indice
 #### 1.	Dependencias del programa
 1.1 Instalación del jdk.
+
 -
 1.2 Descargar los archivos necesarios.
 #### 2.	Manual de usuario del programa
 2.1	Principio del programa.
+
 -
 2.2	Venta de entradas.
 -
