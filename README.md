@@ -175,3 +175,45 @@ Y por último tenemos la tercera opción:
 ![](https://cdn.discordapp.com/attachments/1202672799580295228/1306687167757811732/image.png?ex=673792c1&is=67364141&hm=6fe592522b91886faa5ca82338590f4673153dbb71f09e85c151047aa5a8b6f2&)
 
 
+## 2.4	Menú de administrador
+Al seleccionar esta opción tendremos que introducir el usuario y la contraseña correspondiente (usuario: usu y contraseña: 123):
+
+---
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306691529082933309/image.png?ex=673796d1&is=67364551&hm=b70cd539c707da9cd4c9ed370d1cda27d7c8045b8105f83bd407c5ac81034bd4&)
+
+---
+
+Este apartado esta reservado para los administradores del programa, desde el tendremos las siguientes opciones:
+
+---
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306690922423128074/image.png?ex=67379641&is=673644c1&hm=a6723981cbeb26ededaa15fe404b70e09bc8bec5d99cb99714e4372bc4523024&)
+
+---
+
+La primera opción Nos permite preguntar los ingresos de los diferentes eventos:
+
+---
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306692194802864179/image.png?ex=67379770&is=673645f0&hm=d81db2be459d9db0f85ad071a0842e875f623f107da47cc397292c84b2f270c9&)
+
+---
+
+Despues de seleccionar cualquiera de las opciones se nos mostrara los ingresos totales que ha habido en el evento seleccionado:
+
+---
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306692425191915580/image.png?ex=673797a7&is=67364627&hm=38a60365e50afd0d43b6c3f9b5c66f067531289a807c228c3f5a52250ed663b1&)
+
+---
+
+En la segunda opción nos permite ver el cambio del que disponemos en la empresa:
+
+---
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306693064668217354/image.png?ex=6737983f&is=673646bf&hm=99e7750e3746e00ad2c5933d3195059c61dfafe473fe2d6d000f40298c04d1f5&)
+
+---
+
+La tercera opción apaga el programa.
