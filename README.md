@@ -1,15 +1,17 @@
+# TICKETPALEX
+
+![](https://cdn.discordapp.com/attachments/1202672799580295228/1306694392886591590/ca25bf3e-5467-4413-bf73-ace54b9fd667.webp?ex=6737997c&is=673647fc&hm=65cf735b2bb54d747a8348eeb0e1fdbc5712e82e9e2ea6a868fcf9d0ac5a92a0&)
+
 ## 	Indice
 #### 1.	Dependencias del programa
 1.1 Instalación del jdk.
 
--
 1.2 Descargar los archivos necesarios.
 #### 2.	Manual de usuario del programa
 2.1	Principio del programa.
 
--
 2.2	Venta de entradas.
--
+
 2.3	Consultar eventos
 
 
