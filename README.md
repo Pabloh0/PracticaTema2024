@@ -18,7 +18,7 @@
 
 ## 1.1 instalación del jdk
 Este nos servira para poder ejecutar el programa en el dispositivo que queramos.
-A continuación  dejamos el enlace, si se lo quiere descargar clique encima y lo llevara a la **página oficial de oracle** [**jdk**](http://https://www.oracle.com/cis/java/technologies/downloads/ "JDK"). Este programa trabaja con la **version 23 de jdk**.
+A continuación  dejamos el enlace, si se lo quiere descargar clique encima y lo llevara a la **página oficial de oracle** [**jdk**](https://www.oracle.com/es/java/technologies/downloads/). Este programa trabaja con la **version 23 de jdk**.
 
 Como podemos ver en esta imagen **deberemos de seleccionar la version del jdk** que queremos descargar **y luego el sistema operativo con el que trabajaremos**, una vez seleccionado **nos descargaremos el installer**.
 
